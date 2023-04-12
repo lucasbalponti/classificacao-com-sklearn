@@ -1,6 +1,6 @@
-# Organizando dados na AWS
+# Classificação com sklearn
 
-Neste repositório foram realizados estudos sobre a biblioteca de Python sklearn e seus modelos relacionados à máquinas de vetores de suporte e árvore de classificação, além de conceitos como curva de decisão e dummy classifiers 
+Neste repositório foram realizados estudos sobre a biblioteca de Python sklearn e seus modelos relacionados à máquinas de vetores de suporte e árvore de classificação, além de conceitos como curva de decisão e dummy classifiers.
 
 | Nome | Descrição |
 | -- | --|
